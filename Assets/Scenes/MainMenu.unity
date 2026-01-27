@@ -614,6 +614,18 @@ PrefabInstance:
       propertyPath: m_text
       value: Quit
       objectReference: {fileID: 0}
+    - target: {fileID: 6912538511039942560, guid: 5cb66c2f631a48d4a874384e2f1f2120, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 5276e646e2df17c4c94d53da8b9c5ee9, type: 2}
+    - target: {fileID: 6912538511039942560, guid: 5cb66c2f631a48d4a874384e2f1f2120, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 4368321784276046033, guid: 5276e646e2df17c4c94d53da8b9c5ee9, type: 2}
+    - target: {fileID: 6912538511039942560, guid: 5cb66c2f631a48d4a874384e2f1f2120, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7635832279088033317, guid: 5cb66c2f631a48d4a874384e2f1f2120, type: 3}
       propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
       value: 5
@@ -730,8 +742,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Slope Bros
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 5276e646e2df17c4c94d53da8b9c5ee9, type: 2}
+  m_sharedMaterial: {fileID: 4368321784276046033, guid: 5276e646e2df17c4c94d53da8b9c5ee9, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -853,7 +865,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3306161315914495467, guid: 5cb66c2f631a48d4a874384e2f1f2120, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 350
+      value: 400
       objectReference: {fileID: 0}
     - target: {fileID: 3306161315914495467, guid: 5cb66c2f631a48d4a874384e2f1f2120, type: 3}
       propertyPath: m_SizeDelta.y
@@ -966,6 +978,18 @@ PrefabInstance:
     - target: {fileID: 6912538511039942560, guid: 5cb66c2f631a48d4a874384e2f1f2120, type: 3}
       propertyPath: m_text
       value: Options
+      objectReference: {fileID: 0}
+    - target: {fileID: 6912538511039942560, guid: 5cb66c2f631a48d4a874384e2f1f2120, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 5276e646e2df17c4c94d53da8b9c5ee9, type: 2}
+    - target: {fileID: 6912538511039942560, guid: 5cb66c2f631a48d4a874384e2f1f2120, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 4368321784276046033, guid: 5276e646e2df17c4c94d53da8b9c5ee9, type: 2}
+    - target: {fileID: 6912538511039942560, guid: 5cb66c2f631a48d4a874384e2f1f2120, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7635832279088033317, guid: 5cb66c2f631a48d4a874384e2f1f2120, type: 3}
       propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
@@ -1716,6 +1740,18 @@ PrefabInstance:
     - target: {fileID: 6912538511039942560, guid: 5cb66c2f631a48d4a874384e2f1f2120, type: 3}
       propertyPath: m_text
       value: Play
+      objectReference: {fileID: 0}
+    - target: {fileID: 6912538511039942560, guid: 5cb66c2f631a48d4a874384e2f1f2120, type: 3}
+      propertyPath: m_fontAsset
+      value: 
+      objectReference: {fileID: 11400000, guid: 5276e646e2df17c4c94d53da8b9c5ee9, type: 2}
+    - target: {fileID: 6912538511039942560, guid: 5cb66c2f631a48d4a874384e2f1f2120, type: 3}
+      propertyPath: m_sharedMaterial
+      value: 
+      objectReference: {fileID: 4368321784276046033, guid: 5276e646e2df17c4c94d53da8b9c5ee9, type: 2}
+    - target: {fileID: 6912538511039942560, guid: 5cb66c2f631a48d4a874384e2f1f2120, type: 3}
+      propertyPath: m_hasFontAssetChanged
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7635832279088033317, guid: 5cb66c2f631a48d4a874384e2f1f2120, type: 3}
       propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
