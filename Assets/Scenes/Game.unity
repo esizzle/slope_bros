@@ -2973,7 +2973,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   _rb: {fileID: 1404379384}
-  _force: 150
+  _force: 80
   _torque: 20
 --- !u!1 &2103867170
 GameObject:
