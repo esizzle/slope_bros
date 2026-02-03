@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "slope_bros.slnx"
+    "dotnet.defaultSolution": "Slope Bros.slnx"
 }
