@@ -1,0 +1,886 @@
+fileFormatVersion: 2
+guid: c65e8e343499e634d9faabdaeee138a2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1687073672269735631
+    second: slobe_bros_assets1_0
+  - first:
+      213: -4114881430665976459
+    second: slobe_bros_assets1_1
+  - first:
+      213: -5134257810521801591
+    second: slobe_bros_assets1_2
+  - first:
+      213: -1271310288316670023
+    second: slobe_bros_assets1_3
+  - first:
+      213: -1066389723797282132
+    second: slobe_bros_assets1_4
+  - first:
+      213: 5640606187337864700
+    second: slobe_bros_assets1_5
+  - first:
+      213: -4554670106656642683
+    second: slobe_bros_assets1_6
+  - first:
+      213: -8961763260731652615
+    second: slobe_bros_assets1_7
+  - first:
+      213: 5629688900557217685
+    second: slobe_bros_assets1_8
+  - first:
+      213: -3066883973626436623
+    second: slobe_bros_assets1_9
+  - first:
+      213: -4172785256160302572
+    second: slobe_bros_assets1_10
+  - first:
+      213: 645892866971734959
+    second: slobe_bros_assets1_11
+  - first:
+      213: 3448339215021898073
+    second: slobe_bros_assets1_12
+  - first:
+      213: -6769443092300987617
+    second: slobe_bros_assets1_13
+  - first:
+      213: -8465367321507872159
+    second: slobe_bros_assets1_14
+  - first:
+      213: -3176311188595868437
+    second: slobe_bros_assets1_15
+  - first:
+      213: -3730033091848036225
+    second: slobe_bros_assets1_16
+  - first:
+      213: -3952800198195481971
+    second: slobe_bros_assets1_17
+  - first:
+      213: -2862322487337841875
+    second: slobe_bros_assets1_18
+  - first:
+      213: -6813747818487037909
+    second: slobe_bros_assets1_19
+  - first:
+      213: 2290905929499168281
+    second: slobe_bros_assets1_20
+  - first:
+      213: 4840703517705545312
+    second: slobe_bros_assets1_21
+  - first:
+      213: -2166267364164065203
+    second: slobe_bros_assets1_22
+  - first:
+      213: -440589371746155991
+    second: slobe_bros_assets1_23
+  - first:
+      213: -6614098579414939753
+    second: slobe_bros_assets1_24
+  - first:
+      213: -6241975520905515337
+    second: slobe_bros_assets1_25
+  - first:
+      213: -4570773519608754022
+    second: slobe_bros_assets1_26
+  - first:
+      213: -1051679189445726752
+    second: slobe_bros_assets1_27
+  - first:
+      213: -3816842946218441827
+    second: slobe_bros_assets1_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: slobe_bros_assets1_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 1473
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575ad40f32105e6c0800000000000000
+      internalID: -4114881430665976459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: small_tree_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 656
+        width: 112
+        height: 189
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98cb29a49b37fb8b0800000000000000
+      internalID: -5134257810521801591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slobe_bros_assets1_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 406
+        width: 156
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfd59947066b5ee0800000000000000
+      internalID: -1271310288316670023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slobe_bros_assets1_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 417
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca2afe8323c6331f0800000000000000
+      internalID: -1066389723797282132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slobe_bros_assets1_5
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 235
+        width: 1436
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5d4223175774e40800000000000000
+      internalID: 5640606187337864700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slobe_bros_assets1_6
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 984
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589e3af6baf8ac0c0800000000000000
+      internalID: -4554670106656642683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slobe_bros_assets1_7
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 398
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f581fabbcb61a380800000000000000
+      internalID: -8961763260731652615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slobe_bros_assets1_8
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 14
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f1ca94a3ca02e40800000000000000
+      internalID: 5629688900557217685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slobe_bros_assets1_9
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f368a8664d3075d0800000000000000
+      internalID: -3066883973626436623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slobe_bros_assets1_10
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 623
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ae39afae94716c0800000000000000
+      internalID: -4172785256160302572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slobe_bros_assets1_11
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 31
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa31fc2f32ca6f800800000000000000
+      internalID: 645892866971734959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slobe_bros_assets1_12
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 999
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959fd68fe36fadf20800000000000000
+      internalID: 3448339215021898073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slobe_bros_assets1_13
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 992
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f138d24af5b1e02a0800000000000000
+      internalID: -6769443092300987617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slobe_bros_assets1_14
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 975
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 162c254c549f48a80800000000000000
+      internalID: -8465367321507872159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_tree_2
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 411
+        width: 188
+        height: 570
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becf4a38dc97be3d0800000000000000
+      internalID: -3176311188595868437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slobe_bros_assets1_16
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 391
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7022ff5aa24c3cc0800000000000000
+      internalID: -3730033091848036225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slobe_bros_assets1_17
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 55
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82f67e9925d429c0800000000000000
+      internalID: -3952800198195481971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slobe_bros_assets1_18
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 45
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b8d9decdcf648d0800000000000000
+      internalID: -2862322487337841875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slobe_bros_assets1_19
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 24
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b20ccf9b574b071a0800000000000000
+      internalID: -6813747818487037909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slobe_bros_assets1_20
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 408
+        width: 155
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e42ad1eceeacf10800000000000000
+      internalID: 2290905929499168281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: med_tree_3
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 652
+        width: 148
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066a2d3c332ad2340800000000000000
+      internalID: 4840703517705545312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: med_tree_1
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 412
+        width: 131
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922024dfc46b2e9f0800000000000000
+      internalID: -440589371746155991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: med_tree_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 656
+        width: 172
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7978e8092600634a0800000000000000
+      internalID: -6614098579414939753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: med_tree_2
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 414
+        width: 157
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7be2ebbc55c0069a0800000000000000
+      internalID: -6241975520905515337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slobe_bros_assets1_26
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 24
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9055fe63b95190c0800000000000000
+      internalID: -4570773519608754022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slobe_bros_assets1_27
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 240
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0edaa67695fa761f0800000000000000
+      internalID: -1051679189445726752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: slobe_bros_assets1_28
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 11
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93c13b1099d70bc0800000000000000
+      internalID: -3816842946218441827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_tree_1
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 415
+        width: 172
+        height: 567
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fea27a09ddd8f4eb4076900592110f
+      internalID: 1255992551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tall_tree_3
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 408
+        width: 184
+        height: 590
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd07c464d491ec44bd4d1cd6d20fec1
+      internalID: 1624562912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1e156f7daa003be4cb476e57217d2aaf
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      med_tree_1: -440589371746155991
+      med_tree_2: -6241975520905515337
+      med_tree_3: 4840703517705545312
+      med_tree_4: -6614098579414939753
+      slobe_bros_assets1_1: -4114881430665976459
+      slobe_bros_assets1_10: -4172785256160302572
+      slobe_bros_assets1_11: 645892866971734959
+      slobe_bros_assets1_12: 3448339215021898073
+      slobe_bros_assets1_13: -6769443092300987617
+      slobe_bros_assets1_14: -8465367321507872159
+      slobe_bros_assets1_16: -3730033091848036225
+      slobe_bros_assets1_17: -3952800198195481971
+      slobe_bros_assets1_18: -2862322487337841875
+      slobe_bros_assets1_19: -6813747818487037909
+      slobe_bros_assets1_20: 2290905929499168281
+      slobe_bros_assets1_26: -4570773519608754022
+      slobe_bros_assets1_27: -1051679189445726752
+      slobe_bros_assets1_28: -3816842946218441827
+      slobe_bros_assets1_3: -1271310288316670023
+      slobe_bros_assets1_4: -1066389723797282132
+      slobe_bros_assets1_5: 5640606187337864700
+      slobe_bros_assets1_6: -4554670106656642683
+      slobe_bros_assets1_7: -8961763260731652615
+      slobe_bros_assets1_8: 5629688900557217685
+      slobe_bros_assets1_9: -3066883973626436623
+      small_tree_4: -5134257810521801591
+      tall_tree_1: 1255992551
+      tall_tree_2: -3176311188595868437
+      tall_tree_3: 1624562912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
