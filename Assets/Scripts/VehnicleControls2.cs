@@ -6,6 +6,8 @@ public class VehicleControls2 : MonoBehaviour
     [SerializeField] private float _force = 1f;
 
     [SerializeField] private float _torque = 1f;
+
+    [SerializeField] private float _boostForce = 1f;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
 
     private void FixedUpdate()
@@ -22,6 +24,10 @@ public class VehicleControls2 : MonoBehaviour
         if (Input.GetKey(KeyCode.RightArrow))
         {
             _rb.AddTorque(-1f * _torque);
+        }
+        if (Input.GetKey(KeyCode.UpArrow))
+        {
+            _rb.AddForce(Vector2.right * _boostForce);
         }
         
     }
