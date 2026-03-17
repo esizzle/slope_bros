@@ -2,7 +2,8 @@ using UnityEngine;
  
 public enum SoundID {
     Click,
-    Hover
+    Hover,
+    Sled
 }
 
 [System.Serializable]
