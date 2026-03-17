@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
  
 public class SoundManager : MonoBehaviour
@@ -8,6 +9,8 @@ public class SoundManager : MonoBehaviour
     private SoundLibrary sfxLibrary;
     [SerializeField]
     private AudioSource sfx2DSource;
+    [SerializeField]
+    private AudioSource sfx2DSource2;
  
     private void Awake()
     {
@@ -38,5 +41,36 @@ public class SoundManager : MonoBehaviour
     public void PlaySound2D(SoundID soundID)
     {
         sfx2DSource.PlayOneShot(sfxLibrary.GetClipFromID(soundID));
+    }
+
+    public void PlaySled()
+    {
+        StartCoroutine(FadeIn(0.25f));
+    }
+
+    public void StopSled(){
+        StartCoroutine(FadeOut(0.25f));
+    }
+
+    IEnumerator FadeOut(float duration)
+    {
+        float timer = 0;
+        while (timer < duration)
+        {
+            timer += Time.deltaTime;
+            sfx2DSource2.volume = Mathf.Lerp(1f, 0f, timer / duration);
+            yield return null;
+        }
+    }
+
+    IEnumerator FadeIn(float duration)
+    {
+        float timer = 0;
+        while (timer < duration)
+        {
+            timer += Time.deltaTime;
+            sfx2DSource2.volume = Mathf.Lerp(0f, 1f, timer / duration);
+            yield return null;
+        }
     }
 }
