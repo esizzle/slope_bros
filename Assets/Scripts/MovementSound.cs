@@ -10,7 +10,7 @@ public class MovementSound : MonoBehaviour
         if (collision.gameObject.CompareTag("Player"))
         {
             collisionCount++;
-            Debug.Log(collisionCount);
+            //Debug.Log(collisionCount);
 
             if (collisionCount == 1)
             {
@@ -24,7 +24,7 @@ public class MovementSound : MonoBehaviour
         if (collision.gameObject.CompareTag("Player"))
         {
             collisionCount--;
-            Debug.Log(collisionCount);
+            //Debug.Log(collisionCount);
 
             StartCoroutine(WaitAndCheck());
         }
