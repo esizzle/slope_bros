@@ -6,11 +6,29 @@ public class VehicleControls : MonoBehaviour
     [SerializeField] private float _force = 1f;
     [SerializeField] private float _torque = 1f;
 
-    [SerializeField] private float _boostForce = 1f;
+    [SerializeField] private float _jumpForce = 1f;
+
+    [Header("Ground Check")]
+    [SerializeField] private Transform _groundCheck;
+    [SerializeField] private float _groundCheckRadius = 0.2f;
+    [SerializeField] private LayerMask _groundLayer;
+
+    private bool _isGrounded;
+
+    private void Update()
+    {
+        // Check if touching ground
+        _isGrounded = Physics2D.OverlapCircle(_groundCheck.position, _groundCheckRadius, _groundLayer);
+
+        // Jump when pressing W and grounded
+        if (Input.GetKeyDown(KeyCode.W) && _isGrounded)
+        {
+            _rb.AddForce(Vector2.up * _jumpForce, ForceMode2D.Impulse);
+        }
+    }
 
     private void FixedUpdate()
     {
-        // if the player presses 's' increase the downward velocity
         if (Input.GetKey(KeyCode.S))
         {
             _rb.AddForce(Vector2.down * _force);
@@ -25,11 +43,15 @@ public class VehicleControls : MonoBehaviour
         {
             _rb.AddTorque(-1f * _torque);
         }
+    }
 
-        // horizontal boost when pressing Left Shift
-        if (Input.GetKey(KeyCode.W))
+    // Optional: visualize ground check in editor
+    private void OnDrawGizmosSelected()
+    {
+        if (_groundCheck != null)
         {
-            _rb.AddForce(Vector2.right * _boostForce);
+            Gizmos.color = Color.green;
+            Gizmos.DrawWireSphere(_groundCheck.position, _groundCheckRadius);
         }
     }
 }
