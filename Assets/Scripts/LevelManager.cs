@@ -6,6 +6,7 @@ using System.Linq;
 
 public enum SceneID {
     MainMenu,
+    Tutorial,
     Game
 }
 

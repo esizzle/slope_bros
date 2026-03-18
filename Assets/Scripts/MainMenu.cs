@@ -17,7 +17,7 @@ public class MainMenu : MonoBehaviour
 
     public void Play()
     {
-        LevelManager.Instance.LoadScene(SceneID.Game, TransitionID.CrossFade);
+        LevelManager.Instance.LoadScene(SceneID.Tutorial, TransitionID.CrossFade);
     }
 
     public void Menu() {
