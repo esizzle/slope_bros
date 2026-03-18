@@ -10,8 +10,6 @@ public class MovementSound : MonoBehaviour
         if (collision.gameObject.CompareTag("Player"))
         {
             collisionCount++;
-            Debug.Log(collisionCount);
-
             if (collisionCount == 1)
             {
                 SoundManager.Instance.PlaySled();
@@ -24,8 +22,6 @@ public class MovementSound : MonoBehaviour
         if (collision.gameObject.CompareTag("Player"))
         {
             collisionCount--;
-            Debug.Log(collisionCount);
-
             StartCoroutine(WaitAndCheck());
         }
     }
