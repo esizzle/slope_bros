@@ -41399,7 +41399,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8180f93a44818364caa7b028a8e5e86f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  _timeRequired: 10
+  _timeRequired: 3
   _teleportPosition: {x: 3970, y: -2460}
 --- !u!212 &308845984
 SpriteRenderer:
@@ -42463,7 +42463,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 1, y: 1100}
+  m_SizeDelta: {x: 1, y: 2000}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &316865539
 MonoBehaviour:
@@ -236664,7 +236664,7 @@ Transform:
   m_GameObject: {fileID: 1726089566}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.0784, y: -1.0889, z: -9}
+  m_LocalPosition: {x: 0.07861328, y: -1.0888672, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -253027,7 +253027,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8180f93a44818364caa7b028a8e5e86f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  _timeRequired: 10
+  _timeRequired: 3
   _teleportPosition: {x: 4550, y: -2640}
 --- !u!212 &1856902151
 SpriteRenderer:
@@ -253397,8 +253397,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 475}
-  m_SizeDelta: {x: 160, y: 10}
+  m_AnchoredPosition: {x: 0, y: 479.99997}
+  m_SizeDelta: {x: 160, y: 5.487}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1859049870
 MonoBehaviour:
@@ -253413,7 +253413,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: UnityEngine.UI::UnityEngine.UI.Image
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.6901961, g: 0.654902, b: 0.72156864, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -276485,7 +276485,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8180f93a44818364caa7b028a8e5e86f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  _timeRequired: 10
+  _timeRequired: 3
   _teleportPosition: {x: 2250, y: -1150}
 --- !u!212 &2017796521
 SpriteRenderer:
