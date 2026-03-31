@@ -15,6 +15,11 @@ public class VehicleControls2 : MonoBehaviour
 
     private bool _isGrounded;
 
+    private void Awake()
+    {
+        PowerupManager.Instance.players[1] = _rb;
+    }
+    
     private void Update()
     {
         // Check if touching ground
